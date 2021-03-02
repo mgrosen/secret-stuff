@@ -1,0 +1,2 @@
+msft = 'skuhpm7fmrla6zurzwnfbkb5gl3km4zfnhcdzmtmkv7ldd3a5esq'
+nonmsft = 'dbz2okvuum6tzndunnj7wk4rxp7swn7kf2lo75m6f45zi4hw3nfa'
