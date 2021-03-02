@@ -1,0 +1,2 @@
+secret1 = 'r77y3k5la6blr4zzem5cvxmiss5pvwdxtml52yhttfig43kmxyuq'
+secret2 = 'q6hexuncq4tqhf7zfpqpf3czcgtctmj26hk6xf64m7ejvuntux6q'
