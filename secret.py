@@ -1,2 +1,2 @@
-msft = 'la3ntx7tvf4fwnbv3rxfimokvc2e2wujl6a3ana3kdu3cuh3ujca'
-nonmsft = 'vq6mu3nmo6gh7flihatqcnbew6zvehyfqzfmwbcuc432t5qbn3ma'
+msft = 'msr73qrfnbemeuaztrznc5p3w34x7qnyey5plg77pbhyciyawcpq'
+nonmsft = 'sjin3tkimo56bzoykm76sghpwvm555hhh7copoem3edtgz7j62va'
